@@ -1,1 +1,4 @@
 # bashrc
+
+
+for bashrc testing
