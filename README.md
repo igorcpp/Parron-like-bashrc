@@ -3,7 +3,7 @@
 ## to download
 git clone https://github.com/igorcpp/parrotLikeBashrc.git
 
-## change directory parrotLikeBashrc
+## change directory to parrotLikeBashrc
 cat bashrc >> ~/.bashrc
 
 
