@@ -1,9 +1,9 @@
-for Parrot like look of the terminal
+#for Parrot like look of the terminal
 
-to download
-  git clone
+##to download
+git clone
 
-from directory where file is
-  cat .bashrc >> ~/bash.rc
+##change directory on bashrc
+cat bashrc >> ~/bash.rc
 
 
