@@ -1,3 +1,4 @@
+################################
 # for Parrot like look 
 
 force_color_prompt=yes
