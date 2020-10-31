@@ -4,6 +4,6 @@
 git clone https://github.com/igorcpp/bashrc.git
 
 ## change directory on bashrc
-cat bashrc >> ~/bash.rc
+cat bashrc >> ~/.bashrc
 
 
