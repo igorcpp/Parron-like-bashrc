@@ -4,6 +4,6 @@
 git clone https://github.com/igorcpp/parrotLikeBashrc.git
 
 ## change directory to parrotLikeBashrc
-cat bashrc >> ~/.bashrc
+cat bashrc >> /root/.bashrc
 
 
