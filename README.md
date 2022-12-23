@@ -1,4 +1,4 @@
-# for Parrot like look of the terminal for root user
+# for Parrot like look of the terminal
 
 ## to download
 git clone https://github.com/igorcpp/parrotLikeBashrc.git
