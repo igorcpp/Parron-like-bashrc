@@ -6,7 +6,7 @@ git clone https://github.com/igorcpp/parrotLikeBashrc.git
 ## adding for the root 
 sudo su
 
-cd to the folder where you have cloned from git
+cd to the cloned folder
 
 cat bashrc >> /root/.bashrc
 
