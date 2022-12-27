@@ -9,6 +9,7 @@ sudo su
 cd to the cloned folder
 
 cat bashrc >> /root/.bashrc
+
 cat bashrc >> /home/$USER/.bashrc
 
 log out and log in
